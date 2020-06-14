@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>Kp9F0tIiHIT310h6.png</filename>
+	<path>/home/demir/Desktop/Veri/2/Kp9F0tIiHIT310h6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>34</ymin>
+			<xmax>300</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

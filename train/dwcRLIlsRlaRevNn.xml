@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>dwcRLIlsRlaRevNn.png</filename>
+	<path>/home/demir/Desktop/Veri/2/dwcRLIlsRlaRevNn.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>35</ymin>
+			<xmax>271</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

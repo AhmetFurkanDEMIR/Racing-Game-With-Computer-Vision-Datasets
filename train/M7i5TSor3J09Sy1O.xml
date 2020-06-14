@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>M7i5TSor3J09Sy1O.png</filename>
+	<path>/home/demir/Desktop/Veri/3/M7i5TSor3J09Sy1O.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>10</ymin>
+			<xmax>300</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

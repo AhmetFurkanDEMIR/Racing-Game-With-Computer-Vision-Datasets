@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>y0ZTIzS3rpKagERb.png</filename>
+	<path>/home/demir/Desktop/Veri/2/y0ZTIzS3rpKagERb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>7</ymin>
+			<xmax>290</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>x8fNY0V8O2CJ9vaY.png</filename>
+	<path>/home/demir/Desktop/Veri/1/x8fNY0V8O2CJ9vaY.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sag</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>45</ymin>
+			<xmax>300</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
