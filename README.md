@@ -8,3 +8,5 @@ You can now train the data with Keras RetinaNet or Tensorflow Object Detection A
 The data is tagged and ready for you.
 
 Racing Game With Computer Vision : https://github.com/AhmetFurkanDEMIR/Racing-Game-With-Computer-Vision
+
+If you want to access the Data Set via Kaggle : https://www.kaggle.com/ahmetfurkandemr/racing-game-with-computer-vision-datasets
